@@ -7,7 +7,7 @@ pipeline {
     }
 
     environment {
-        TOMCAT_URL = 'http://localhost:8095/manager/text'
+        TOMCAT_URL = 'http://34.201.159.160:8095/manager/text'
         TOMCAT_USER = 'admin'
         TOMCAT_PASS = 'admin'
 
